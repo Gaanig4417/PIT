@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Promoções &#8211; copycake</title>
+	<atom:link href="/categoria-produto/promocoe/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>textos para copiar, colar e usar</description>
+	<lastBuildDate>Mon, 12 Sep 2022 22:23:29 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/09/cropped-35-32x32.png</url>
+	<title>Promoções &#8211; copycake</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ofertas de Imóveis</title>
+		<link>/loja/empresa/imoves/ofertas-de-imoveis/</link>
+					<comments>/loja/empresa/imoves/ofertas-de-imoveis/#respond</comments>
+		
+		<dc:creator><![CDATA[adm]]></dc:creator>
+		<pubDate>Mon, 12 Sep 2022 22:23:29 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=1245</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/loja/empresa/imoves/ofertas-de-imoveis/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ofertas de Beleza</title>
+		<link>/loja/empresa/beleza/ofertas-de-beleza/</link>
+					<comments>/loja/empresa/beleza/ofertas-de-beleza/#respond</comments>
+		
+		<dc:creator><![CDATA[adm]]></dc:creator>
+		<pubDate>Mon, 12 Sep 2022 22:21:36 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=1242</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/loja/empresa/beleza/ofertas-de-beleza/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ofertas de Clínicas</title>
+		<link>/loja/empresa/clinica/ofertas-de-clinicas/</link>
+					<comments>/loja/empresa/clinica/ofertas-de-clinicas/#respond</comments>
+		
+		<dc:creator><![CDATA[adm]]></dc:creator>
+		<pubDate>Mon, 12 Sep 2022 22:19:56 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=1241</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/loja/empresa/clinica/ofertas-de-clinicas/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ofertas de Cursos</title>
+		<link>/loja/empresa/curso/ofertas-de-cursos/</link>
+					<comments>/loja/empresa/curso/ofertas-de-cursos/#respond</comments>
+		
+		<dc:creator><![CDATA[adm]]></dc:creator>
+		<pubDate>Mon, 12 Sep 2022 22:18:29 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=1239</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/loja/empresa/curso/ofertas-de-cursos/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ofertas de Veículos</title>
+		<link>/loja/empresa/carros/ofertas-de-veiculos/</link>
+					<comments>/loja/empresa/carros/ofertas-de-veiculos/#respond</comments>
+		
+		<dc:creator><![CDATA[adm]]></dc:creator>
+		<pubDate>Mon, 12 Sep 2022 22:17:44 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=1238</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/loja/empresa/carros/ofertas-de-veiculos/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ofertas de Roupas e Acessórios</title>
+		<link>/loja/empresa/roupas/ofertas-de-roupas-e-acessorios/</link>
+					<comments>/loja/empresa/roupas/ofertas-de-roupas-e-acessorios/#respond</comments>
+		
+		<dc:creator><![CDATA[adm]]></dc:creator>
+		<pubDate>Mon, 12 Sep 2022 22:16:40 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=1236</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/loja/empresa/roupas/ofertas-de-roupas-e-acessorios/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ofertas para Supermercados</title>
+		<link>/loja/empresa/supermercado/ofertas-para-supermercados/</link>
+					<comments>/loja/empresa/supermercado/ofertas-para-supermercados/#respond</comments>
+		
+		<dc:creator><![CDATA[adm]]></dc:creator>
+		<pubDate>Mon, 12 Sep 2022 22:14:14 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=1234</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/loja/empresa/supermercado/ofertas-para-supermercados/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ofertas de Restaurante e Lanchonete</title>
+		<link>/loja/empresa/restaurante/ofertas-de-restaurante-e-lanchonete/</link>
+					<comments>/loja/empresa/restaurante/ofertas-de-restaurante-e-lanchonete/#respond</comments>
+		
+		<dc:creator><![CDATA[adm]]></dc:creator>
+		<pubDate>Mon, 12 Sep 2022 22:13:29 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=1233</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/loja/empresa/restaurante/ofertas-de-restaurante-e-lanchonete/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cliente de Petshop</title>
+		<link>/loja/empresa/petshop/cliente-de-petshop/</link>
+					<comments>/loja/empresa/petshop/cliente-de-petshop/#respond</comments>
+		
+		<dc:creator><![CDATA[adm]]></dc:creator>
+		<pubDate>Mon, 12 Sep 2022 22:09:10 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=1230</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/loja/empresa/petshop/cliente-de-petshop/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Venda pelo WhatsApp</title>
+		<link>/loja/empresa/venda-pelo-whatsapp/</link>
+					<comments>/loja/empresa/venda-pelo-whatsapp/#respond</comments>
+		
+		<dc:creator><![CDATA[adm]]></dc:creator>
+		<pubDate>Mon, 12 Sep 2022 22:06:54 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=1228</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/loja/empresa/venda-pelo-whatsapp/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
